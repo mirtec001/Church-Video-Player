@@ -6,6 +6,7 @@
     Width="800"
     Height="325"
     Title="Church Video Player"
+    
     >
 
 <StackPanel Orientation="Horizontal">

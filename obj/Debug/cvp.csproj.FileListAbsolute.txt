@@ -16,3 +16,21 @@ C:\Users\misikp\Downloads\C# Dev\church video player\normnfkc.nlp
 C:\Users\misikp\Downloads\C# Dev\church video player\normnfkd.nlp
 C:\Users\misikp\Downloads\C# Dev\church video player\obj\Debug\Window2.baml
 C:\Users\misikp\Downloads\C# Dev\church video player\obj\Debug\Window2.g.cs
+C:\Users\St Matthews Baptist\Downloads\Church-Video-Player-master\obj\Debug\cvp.csprojResolveAssemblyReference.cache
+C:\Users\St Matthews Baptist\Downloads\Church-Video-Player-master\obj\Debug\Window1.baml
+C:\Users\St Matthews Baptist\Downloads\Church-Video-Player-master\obj\Debug\Window2.baml
+C:\Users\St Matthews Baptist\Downloads\Church-Video-Player-master\obj\Debug\Window1.g.cs
+C:\Users\St Matthews Baptist\Downloads\Church-Video-Player-master\obj\Debug\Window2.g.cs
+C:\Users\St Matthews Baptist\Downloads\Church-Video-Player-master\obj\Debug\cvp.g.cs
+C:\Users\St Matthews Baptist\Downloads\Church-Video-Player-master\obj\Debug\cvp_MarkupCompile.cache
+C:\Users\St Matthews Baptist\Downloads\Church-Video-Player-master\obj\Debug\cvp.g.resources
+C:\Users\St Matthews Baptist\Downloads\Church-Video-Player-master\obj\Debug\cvp.exe
+C:\Users\St Matthews Baptist\Downloads\Church-Video-Player-master\obj\Debug\cvp.pdb
+C:\Users\St Matthews Baptist\Downloads\Church-Video-Player-master\cvp.exe
+C:\Users\St Matthews Baptist\Downloads\Church-Video-Player-master\cvp.pdb
+C:\Users\St Matthews Baptist\Downloads\Church-Video-Player-master\mscorlib.dll
+C:\Users\St Matthews Baptist\Downloads\Church-Video-Player-master\normidna.nlp
+C:\Users\St Matthews Baptist\Downloads\Church-Video-Player-master\normnfc.nlp
+C:\Users\St Matthews Baptist\Downloads\Church-Video-Player-master\normnfd.nlp
+C:\Users\St Matthews Baptist\Downloads\Church-Video-Player-master\normnfkc.nlp
+C:\Users\St Matthews Baptist\Downloads\Church-Video-Player-master\normnfkd.nlp

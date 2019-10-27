@@ -7,6 +7,7 @@
     <OutputType>winexe</OutputType>
     <OutputPath>.\</OutputPath>
     <Assembly>SMBC Video Player.exe</Assembly>
+    <ApplicationIcon>cvp.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <ApplicationDefinition Include="cvp.xaml" />
